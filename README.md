@@ -29,7 +29,7 @@ Ikuti langkah-langkah di bawah ini untuk memulai proyek ini:
 Clone repositori ini ke komputer Anda:
 
 ```bash
-git https://github.com/gilsa9090/test-CRUD.git
+git clone https://github.com/gilsa9090/test-CRUD.git
 ```
 
 ### 2. Install Dependecies
